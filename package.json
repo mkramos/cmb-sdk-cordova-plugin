@@ -1,0 +1,66 @@
+{
+  "_from": "git+https://github.com/mkramos/cmbsdk_cordova.git",
+  "_id": "cmbsdk-cordova@1.2.19",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cmbsdk-cordova",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/mkramos/cmbsdk_cordova.git",
+    "rawSpec": "https://github.com/mkramos/cmbsdk_cordova.git",
+    "saveSpec": "git+https://github.com/mkramos/cmbsdk_cordova.git",
+    "fetchSpec": "https://github.com/mkramos/cmbsdk_cordova.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/mkramos/cmbsdk_cordova.git#f1a56812576b0b761b8a88d25a1db63499e2fed7",
+  "_spec": "https://github.com/mkramos/cmbsdk_cordova.git",
+  "_where": "C:\\Users\\mramos\\try\\cmbsdk-cordova",
+  "author": {
+    "name": "Cognex"
+  },
+  "bugs": {
+    "url": "https://cmbdn.cognex.com/tickets/submit_ticket"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cmb-sdk-cordova-plugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "CMB Scanner Cordova Plugin",
+  "homepage": "https://cmbdn.cognex.com/knowledge/cordova-plugin-for-cmbsdk",
+  "keywords": [
+    "cordova",
+    "phonegap",
+    "barcode",
+    "scanner",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "cmbsdk-cordova",
+  "nativescript": {
+    "platforms": {
+      "android": "1.0.0",
+      "ios": "1.0.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkramos/cmbsdk_cordova.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.19"
+}
